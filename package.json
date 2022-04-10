@@ -1,6 +1,6 @@
 {
   "name": "window.resize.analysis",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@l1ck0h/every-layout.css": "github:l1ck0h/every-layout.css",
